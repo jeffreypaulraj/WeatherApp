@@ -1,3 +1,4 @@
 
-![alt text](https://github.com/jeffreypaulraj/CalculatorApp/blob/master/Calculator_Landscape.png)
-![alt text](https://github.com/jeffreypaulraj/CalculatorApp/blob/master/Calculator_Portrait.png)
+![alt text](https://github.com/jeffreypaulraj/WeatherApp/blob/master/weatherHourlyView.png)
+![alt text](https://github.com/jeffreypaulraj/WeatherApp/blob/master/weatherDailyView.png)
+![alt text](https://github.com/jeffreypaulraj/WeatherApp/blob/master/weatherHomeScreen.png)
